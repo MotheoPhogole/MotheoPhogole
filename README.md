@@ -9,4 +9,5 @@
 <!---
 MotheoPhogole/MotheoPhogole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+And im always eager to learn new languages and built my self through this journey.
 --->
