@@ -1,6 +1,6 @@
 [![Masterhead](https://64.media.tumblr.com/1c5b2369d4223aba5c08d7595b8781cc/tumblr_pirpyrIjJu1tlgv32o1_640.gif)
 <h1 align="center">Hi 👋, I'm Ngwatle Motheo</h1>
-<h3 align="center">A passionate developer in the making</h3>
+<h3 align="center">A passionate full stack developer in the making</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu9G5XXDagAJREe-6E-OglzdMhlFOmRfbeTw&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=motheophogole&label=Profile%20views&color=0e75b6&style=flat" alt="motheophogole" /> </p>
