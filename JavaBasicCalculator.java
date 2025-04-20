@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class JavaCalculator {
+public class JavaBasicCalculator {
     public static void main(String[] args) {
         // Create a simple calculator that performs basic arithmetic operations
         // such as addition, subtraction, multiplication, and division.
