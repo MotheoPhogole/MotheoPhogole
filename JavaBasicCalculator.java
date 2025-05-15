@@ -48,7 +48,6 @@ public class JavaBasicCalculator {
                 return;
         }
         //Displaying the result of the calculation
-        //Using printf for formatted output
-        System.out.printf("Result: %.2f %c %.2f = %.2f%n", num1, operation, num2, result);
+        System.out.println("Result: "+ num1 +" "+ operation +" "+ num2 +" = "+ result);
     }
 }
