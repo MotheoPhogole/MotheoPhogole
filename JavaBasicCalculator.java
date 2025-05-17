@@ -19,7 +19,7 @@ public class JavaBasicCalculator {
         double num1 = scanner.nextDouble();
         System.out.print("Enter second number: ");
         double num2 = scanner.nextDouble();
-        System.out.print("Choose an operation (+, -, *, /): ");
+        System.out.print("Choose an operation (+, -, *, /, ^): ");
         char operation = scanner.next().charAt(0);
 
         //Performing the calculation based on user input
@@ -42,6 +42,9 @@ public class JavaBasicCalculator {
                     System.out.println("Error! Division by zero.");
                     return;
                 }
+                break;
+            case '^':
+                result = Math.pow(num1, num2);//Power of,NB: num2 will always be the power of num1
                 break;
             default:
                 System.out.println("Invalid operation!");
