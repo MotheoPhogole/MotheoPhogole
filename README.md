@@ -28,7 +28,6 @@ Aspired CLOUD ENGINEER
 src="https://img.shields.io/github/followers/motheophogole?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/motheo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/motheo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
 /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
